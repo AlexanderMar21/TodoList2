@@ -142,7 +142,7 @@ select {
     font-size: 58%;
   }
   .todo-input {
-    width: 25rem;
+    width: 23rem;
   }
   form {
     flex-direction: column;
